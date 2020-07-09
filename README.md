@@ -9,9 +9,9 @@ Retrouvez plus en détails mon approche et mes compétences sur [mon site web](h
 Disponible à partir du mois de septembre 2020, en télétravail de préférence.
 
 # Contactez moi 📫
-Site web : https://www.sylvainmoingeon.fr/contact/
-LinkedIn : https://www.linkedin.com/in/sylvainmoingeon/
-Malt : https://malt.fr/profile/sylvainmoingeon
+* Site web : https://www.sylvainmoingeon.fr/contact/
+* LinkedIn : https://www.linkedin.com/in/sylvainmoingeon/
+* Malt : https://malt.fr/profile/sylvainmoingeon
 
 
 
