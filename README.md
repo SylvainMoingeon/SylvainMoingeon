@@ -18,6 +18,9 @@ Disponible à partir du mois de septembre 2020, en télétravail de préférence
 
 # Derniers articles
 <!-- BLOG-POST-LIST:START -->
+- [Intégrez vos images sans douleur dans Xamarin.Forms avec ResizetizerNT](https://dev.to/sylvainmoingeon/integrez-vos-images-sans-douleur-dans-xamarin-forms-avec-resizetizernt-1ehj)
+- [Déclaration simplifiée des grids Xamarin.Forms](https://dev.to/sylvainmoingeon/declaration-simplifiee-des-grids-xamarin-forms-1hj5)
+- [Simplifiez vous les fonts sous Xamarin.Forms](https://dev.to/sylvainmoingeon/simplifiez-vous-les-fonts-sous-xamarin-forms-44e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
