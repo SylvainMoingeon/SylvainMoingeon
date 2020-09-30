@@ -18,6 +18,7 @@ Disponible à partir du mois de septembre 2020, en télétravail de préférence
 
 # Derniers articles
 <!-- BLOG-POST-LIST:START -->
+- [L'inversion de dépendance facile (et pas chère)](https://dev.to/sylvainmoingeon/l-inversion-de-dependance-facile-et-pas-chere-51oe)
 - [[Xamarin.Forms] MVVM - 1 - A quoi ça sert ?](https://dev.to/sylvainmoingeon/xamarin-forms-mvvm-1-a-quoi-ca-sert-p5g)
 - [Développez des applications sans crotte de nez !](https://dev.to/sylvainmoingeon/developpez-des-applications-sans-crotte-de-nez-mc4)
 - [Intégrez vos images sans douleur dans Xamarin.Forms avec ResizetizerNT](https://dev.to/sylvainmoingeon/integrez-vos-images-sans-douleur-dans-xamarin-forms-avec-resizetizernt-1ehj)
