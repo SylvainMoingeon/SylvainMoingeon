@@ -18,6 +18,7 @@ Disponible à partir du mois de septembre 2020, en télétravail de préférence
 
 # Derniers articles
 <!-- BLOG-POST-LIST:START -->
+- [Créer un contrôle réutilisable 100% Xamarin.Forms, partie 1](https://dev.to/sylvainmoingeon/creer-un-controle-reutilisable-100-xamarin-forms-partie-1-4mgo)
 - [L'inversion de dépendance facile (et pas chère)](https://dev.to/sylvainmoingeon/l-inversion-de-dependance-facile-et-pas-chere-51oe)
 - [[Xamarin.Forms] MVVM - 1 - A quoi ça sert ?](https://dev.to/sylvainmoingeon/xamarin-forms-mvvm-1-a-quoi-ca-sert-p5g)
 - [Développez des applications sans crotte de nez !](https://dev.to/sylvainmoingeon/developpez-des-applications-sans-crotte-de-nez-mc4)
